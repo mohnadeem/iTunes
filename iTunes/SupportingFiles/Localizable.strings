@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  iTunes
+
+  Created by Muhammad Nadeem on 16/12/2020.
+  
+*/
+
+// Global Messages
+"CANCEL"                   = "Cancel";
+"OK"                       = "OK";
+"ERROR"                    = "Error";
+"SUBMIT"                   = "Submit";
+
+// Search Page
+"SEARCH_PAGE_TITLE"        = "iTunes";
+"SEARCH_VALIDATION_MSG"    = "Please enter search term";
+
+// Media Selection Page
+"MEDIA_TYPES_PAGE_TITLE"   = "Select media types";
+"DONE"                     = "Done";
+
+// Search Results Page
